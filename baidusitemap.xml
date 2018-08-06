@@ -4,8 +4,30 @@
 
     
   <url>
+    <loc>http://yoursite.com/622008616/</loc>
+    <lastmod>2018-08-06T08:52:19.823Z</lastmod>
+    <data>
+        <display>
+        <title>ZYNQ 烧录QSPI FLASH及从QSPI启动</title>
+        <pubTime>2018-08-06T06:21:41.000Z</pubTime>
+        
+        <tag>xilinx</tag>
+         
+        <tag>qspi</tag>
+         
+         
+           
+             
+              <breadCrumb title="xilinx" url="http://yoursite.com/categories/xilinx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/1064320173/</loc>
-    <lastmod>2018-08-03T09:22:40.326Z</lastmod>
+    <lastmod>2018-08-06T02:01:30.161Z</lastmod>
     <data>
         <display>
         <title>ZYNQ QSPI驱动分析</title>
