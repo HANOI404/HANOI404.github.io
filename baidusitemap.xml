@@ -4,12 +4,60 @@
 
     
   <url>
-    <loc>http://yoursite.com/1064320173/</loc>
-    <lastmod>2018-08-07T09:18:11.788Z</lastmod>
+    <loc>http://yoursite.com/1522571396/</loc>
+    <lastmod>2018-08-15T08:40:02.012Z</lastmod>
     <data>
         <display>
-        <title>ZYNQ QSPI驱动分析</title>
-        <pubTime>2018-08-03T03:52:41.000Z</pubTime>
+        <title>嵌入式LINUX下CGI与HTML网页之间的通信</title>
+        <pubTime>2018-08-15T07:04:34.000Z</pubTime>
+        
+        <tag>嵌入式</tag>
+         
+        <tag>cgi</tag>
+         
+        <tag>html</tag>
+         
+         
+           
+             
+              <breadCrumb title="嵌入式" url="http://yoursite.com/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2391800641/</loc>
+    <lastmod>2018-08-15T08:30:43.810Z</lastmod>
+    <data>
+        <display>
+        <title>ZYNQ从BUSYBOX开始制作RAMDISK</title>
+        <pubTime>2018-08-13T10:14:25.000Z</pubTime>
+        
+        <tag>xilinx</tag>
+         
+        <tag>ramdisk</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="xilinx" url="http://yoursite.com/categories/xilinx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/622008616/</loc>
+    <lastmod>2018-08-15T08:23:48.320Z</lastmod>
+    <data>
+        <display>
+        <title>ZYNQ 烧录QSPI FLASH及从QSPI启动</title>
+        <pubTime>2018-08-06T06:21:41.000Z</pubTime>
         
         <tag>xilinx</tag>
          
@@ -26,12 +74,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/622008616/</loc>
-    <lastmod>2018-08-07T09:12:33.670Z</lastmod>
+    <loc>http://yoursite.com/1064320173/</loc>
+    <lastmod>2018-08-15T08:12:15.074Z</lastmod>
     <data>
         <display>
-        <title>ZYNQ 烧录QSPI FLASH及从QSPI启动</title>
-        <pubTime>2018-08-06T06:21:41.000Z</pubTime>
+        <title>ZYNQ QSPI驱动分析</title>
+        <pubTime>2018-08-03T03:52:41.000Z</pubTime>
         
         <tag>xilinx</tag>
          
