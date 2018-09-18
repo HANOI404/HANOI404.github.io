@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://balost.github.io/2391800641/</loc>
+    <lastmod>2018-09-18T08:54:26.752Z</lastmod>
+    <data>
+        <display>
+        <title>ZYNQ从BUSYBOX开始制作RAMDISK</title>
+        <pubTime>2018-08-13T10:14:25.000Z</pubTime>
+        
+        <tag>xilinx</tag>
+         
+        <tag>ramdisk</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="xilinx" url="http://balost.github.io/categories/xilinx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://balost.github.io/3453995741/</loc>
     <lastmod>2018-09-18T08:49:48.159Z</lastmod>
     <data>
@@ -158,30 +182,6 @@
            
              
               <breadCrumb title="嵌入式" url="http://balost.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://balost.github.io/2391800641/</loc>
-    <lastmod>2018-08-16T09:18:41.359Z</lastmod>
-    <data>
-        <display>
-        <title>ZYNQ从BUSYBOX开始制作RAMDISK</title>
-        <pubTime>2018-08-13T10:14:25.000Z</pubTime>
-        
-        <tag>xilinx</tag>
-         
-        <tag>ramdisk</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="xilinx" url="http://balost.github.io/categories/xilinx/"/>
           
         </display>
     </data>
