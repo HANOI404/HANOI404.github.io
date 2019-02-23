@@ -1,4 +1,5 @@
-# balost.github.io
-balost personal blog
+# hanoi404.github.io
 
-[Home Page](https://bahanoi.github.io/)
+Work and Learning Journey
+
+[Home Page](https://hanoi404.github.io/)
