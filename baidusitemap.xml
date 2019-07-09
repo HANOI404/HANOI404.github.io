@@ -4,8 +4,30 @@
 
     
   <url>
+    <loc>http://hanoi404.github.io/1519021197/</loc>
+    <lastmod>2019-07-09T00:57:31.749Z</lastmod>
+    <data>
+        <display>
+        <title>Qt 静态编译(基于Windows MinGW 版)</title>
+        <pubTime>2019-07-08T10:01:52.000Z</pubTime>
+        
+        <tag>Qt</tag>
+         
+        <tag>MinGW</tag>
+         
+         
+           
+             
+              <breadCrumb title="Qt" url="http://hanoi404.github.io/categories/Qt/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://hanoi404.github.io/880640044/</loc>
-    <lastmod>2019-06-26T01:38:31.795Z</lastmod>
+    <lastmod>2019-06-26T01:39:09.394Z</lastmod>
     <data>
         <display>
         <title>C# 下 CRC32 算法的实现</title>
@@ -218,9 +240,9 @@
         <title>Arm Linux下使用ldd</title>
         <pubTime>2018-08-21T04:16:24.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
         <tag>嵌入式</tag>
+         
+        <tag>Linux</tag>
          
          
            
