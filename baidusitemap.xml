@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://hanoi404.github.io/1725682029/</loc>
+    <lastmod>2020-02-19T04:54:54.089Z</lastmod>
+    <data>
+        <display>
+        <title>RabbitMQ配置使用SSL加密通信</title>
+        <pubTime>2020-02-19T04:51:34.000Z</pubTime>
+        
+        <tag>RabbitMQ</tag>
+         
+        <tag>SSl</tag>
+         
+        <tag>Pika</tag>
+         
+         
+           
+             
+              <breadCrumb title="RabbitMQ" url="http://hanoi404.github.io/categories/RabbitMQ/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://hanoi404.github.io/4258116079/</loc>
     <lastmod>2020-02-19T04:47:54.198Z</lastmod>
     <data>
@@ -372,9 +396,9 @@
         <title>Arm Linux下使用ldd</title>
         <pubTime>2018-08-21T04:16:24.000Z</pubTime>
         
-        <tag>嵌入式</tag>
-         
         <tag>Linux</tag>
+         
+        <tag>嵌入式</tag>
          
          
            
