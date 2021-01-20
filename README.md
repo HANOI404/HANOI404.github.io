@@ -1,5 +1,5 @@
-# hanoi404.github.io
+# SEVENSX.github.io
 
 Work and Learning Journey
 
-[Home Page](https://hanoi404.github.io/)
+[Home Page](https://sevensx.github.io/)
